@@ -1,4 +1,4 @@
-# Istio
+# Istio [中文](./README.cn.md)
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1395/badge)](https://bestpractices.coreinfrastructure.org/projects/1395)
 [![Go Report Card](https://goreportcard.com/badge/github.com/istio/istio)](https://goreportcard.com/report/github.com/istio/istio)
@@ -19,9 +19,10 @@ Istio is an open source service mesh that layers transparently onto existing dis
 
 In this README:
 
-- [Introduction](#introduction)
-- [Repositories](#repositories)
-- [Issue management](#issue-management)
+- [Istio 中文](#istio-中文)
+  - [Introduction](#introduction)
+  - [Repositories](#repositories)
+  - [Issue management](#issue-management)
 
 In addition, here are some other documents you may wish to read:
 
